@@ -1,0 +1,4 @@
+resolusi
+  - konsisten
+  - membuat a
+  - membuat b
