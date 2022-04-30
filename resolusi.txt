@@ -1,6 +1,6 @@
 resolusi
   - konsisten
   - membuat a
-  - membuat b
   - membuat ecomerce
   - integarasi
+  - membuat c
